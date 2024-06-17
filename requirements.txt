@@ -47,7 +47,7 @@ six
 tensorflow
 tensorflow-io-gcs-filesystem
 termcolor
-threadpoolctl=
+threadpoolctl
 tomli
 tqdm
 typing_extensions
